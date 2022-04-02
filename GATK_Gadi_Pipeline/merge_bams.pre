@@ -1,0 +1,24 @@
+
+#PBS -N merge_bams
+### Output files
+#PBS -r y
+#PBS -l ncpus=1
+#PBS -l mem=16GB
+#PBS -q normal
+#PBS -P wz54
+#PBS -l walltime=6:00:00
+
+### Number of nodes
+###PBS -l nodes=4:compute#shared  # not supported
+
+#PBS -l storage=scratch/wz54+gdata/wz54
+#PBS -l wd
+#PBS -l jobfs=1GB
+
+MEM=16
+
+source paths.sh
+
+
+
+java "-Xmx${MEM}g" -jar ${PICARD_PATH}  MergeSamFiles  \

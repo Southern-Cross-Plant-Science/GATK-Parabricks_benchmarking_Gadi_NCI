@@ -1,0 +1,5 @@
+ChemDog18cycles_ATCACG	ChemDog18cycles_ATCACG	/g/data/wz54/lm0682/fastq-5/ChemDog18cycles_ATCACG_L001_1P.gz	/g/data/wz54/lm0682/fastq-5/ChemDog18cycles_ATCACG_L001_2P.gz	57MB
+GirlScoutCookie_CTTGTA	GirlScoutCookie_CTTGTA	/g/data/wz54/lm0682/fastq-5/GirlScoutCookie_CTTGTA_L001_1P.gz	/g/data/wz54/lm0682/fastq-5/GirlScoutCookie_CTTGTA_L001_2P.gz	56MB
+ArcataTrainWreck_ACAGTG	ArcataTrainWreck_ACAGTG	/g/data/wz54/lm0682/fastq-5/ArcataTrainWreck_ACAGTG_L001_1P.gz	/g/data/wz54/lm0682/fastq-5/ArcataTrainWreck_ACAGTG_L001_2P.gz	55MB
+SourTsunami_TAGCTT	SourTsunami_TAGCTT	/g/data/wz54/lm0682/fastq-5/SourTsunami_TAGCTT_L001_1P.gz	/g/data/wz54/lm0682/fastq-5/SourTsunami_TAGCTT_L001_2P.gz	54MB
+PureKush_GATCAG	PureKush_GATCAG	/g/data/wz54/lm0682/fastq-5/PureKush_GATCAG_L001_1P.gz	/g/data/wz54/lm0682/fastq-5/PureKush_GATCAG_L001_2P.gz	52MB
