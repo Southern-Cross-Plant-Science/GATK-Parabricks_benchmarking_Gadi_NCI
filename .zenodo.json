@@ -2,7 +2,6 @@
     "description": "Optimising for computational performance of germline SNP calling workflows for Parabricks (NVIDIA) and GATK (Broad Institute) at Gadi@NCI", 
     "license": "other-open", 
     "title": "Southern-Cross-Plant-Science/GATK-Parabricks_benchmarking_Gadi_NCI: Initial release", 
-    "version": "v0.1.5", 
     "upload_type": "software", 
     "publication_date": "2023-09-15", 
     "creators": [
@@ -11,17 +10,5 @@
             "name": "Locedie Mansueto"
         }
     ], 
-    "access_right": "open", 
-    "related_identifiers": [
-        {
-            "scheme": "url", 
-            "identifier": "https://github.com/Southern-Cross-Plant-Science/GATK-Parabricks_benchmarking_Gadi_NCI/tree/v0.1.5", 
-            "relation": "isSupplementTo"
-        }, 
-        {
-            "scheme": "doi", 
-            "identifier": "10.5281/zenodo.8348884", 
-            "relation": "isVersionOf"
-        }
-    ]
+    "access_right": "open"
 }
