@@ -9,5 +9,5 @@ To optimise for computational performance of germline SNP calling workflows for 
 The 2 benchmarking pipelines are included in this repository, as well the report document.
 
 
-[Parabricks vs GATK benchmarking report](gatk_parabricks_benchmarking)
+[Parabricks vs GATK benchmarking report](gatk_parabricks_benchmarking.pdf)
 
